@@ -1,0 +1,6 @@
+@-moz-document domain("github.com") {
+  .blob-code-inner, .blob-code-inner > *, .CodeMirror pre > span, .CodeMirror-linenumber {
+    font-family: 'Fantasque Sans Mono', monospace !important;
+    font-size: 0.9rem;
+  }
+}
